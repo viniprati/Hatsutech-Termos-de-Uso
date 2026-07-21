@@ -1,0 +1,1 @@
+# Hatsutech-Termos-de-Uso
