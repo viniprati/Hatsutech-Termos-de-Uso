@@ -1,6 +1,8 @@
-# Termos de Serviço | Animes Café
+# Hatsutech - Termos de Uso
 
 Site estático dos Termos de Serviço do Hatsutech, app/bot usado no servidor Animes Café.
+
+## Termos de Serviço | Animes Café
 
 ## Sobre
 
